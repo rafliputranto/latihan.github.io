@@ -1,1 +1,1 @@
-# test.github.io
+# Berikut ini adalah latihan PHP.
